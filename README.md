@@ -119,7 +119,8 @@ A solução aplica conceitos fundamentais de **Programação Dinâmica**:
 
 em um cenário realista ligado ao **Futuro do Trabalho** e ao contexto de **ReSkill / Global Solution**.
 
-📋 Integrantes 
+📋 Integrantes
+
 👤 Paulo Poças – RM556080
 
 👤 Guilherme Gomes – RM554606 
