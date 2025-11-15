@@ -118,3 +118,10 @@ A solução aplica conceitos fundamentais de **Programação Dinâmica**:
 - Mochila 0/1
 
 em um cenário realista ligado ao **Futuro do Trabalho** e ao contexto de **ReSkill / Global Solution**.
+
+📋 Integrantes 
+👤 Paulo Poças – RM556080
+
+👤 Guilherme Gomes – RM554606 
+
+👤 André Luiz Fernandes De Queiroz - Rm554503
