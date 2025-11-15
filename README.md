@@ -1,4 +1,39 @@
-# Dynamic Programming – Future of Work (Global Solution)
+# ReSkill 360 – Ecossistema Inteligente de Requalificação Profissional
+
+<img src="assets/reskill_intro.png" width="100%" />
+
+## 🌍 Sobre o Projeto
+
+Com o avanço da automação e da inteligência artificial, milhões de profissionais estão sendo substituídos por máquinas, e o Brasil ainda carece de uma estrutura eficiente para **requalificação rápida e acessível**.
+
+O **ReSkill 360** surge como uma resposta a esse desafio: um ecossistema inteligente que une **tecnologia, educação e empregabilidade** para transformar trajetórias profissionais.
+
+A plataforma utiliza **IA educacional** para:
+- identificar lacunas de competências  
+- recomendar trilhas personalizadas  
+- sugerir cursos com base em dados reais do mercado  
+- conectar profissionais a oportunidades de emprego  
+
+A solução contribui diretamente para os ODS:
+- **ODS 4** – Educação de Qualidade  
+- **ODS 8** – Trabalho Decente  
+- **ODS 10** – Redução das Desigualdades  
+
+Mais do que uma plataforma, o ReSkill 360 é um movimento nacional de requalificação inteligente.
+
+---
+
+# 📱 Protótipo da Plataforma
+
+<img src="assets/prototipo_reskill.png" width="100%" />
+
+### Telas Demonstradas
+- **Login / Cadastro**
+- **Dashboard com trilha de aprendizagem**
+- **Certificações e oportunidades de emprego**
+
+---
+
 
 ## Visão Geral
 
