@@ -1,7 +1,5 @@
 # ReSkill 360 – Ecossistema Inteligente de Requalificação Profissional
 
-<img src="assets/reskill_intro.png" width="100%" />
-
 ## 🌍 Sobre o Projeto
 
 Com o avanço da automação e da inteligência artificial, milhões de profissionais estão sendo substituídos por máquinas, e o Brasil ainda carece de uma estrutura eficiente para **requalificação rápida e acessível**.
