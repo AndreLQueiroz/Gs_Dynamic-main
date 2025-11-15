@@ -118,21 +118,3 @@ A solução aplica conceitos fundamentais de **Programação Dinâmica**:
 - Mochila 0/1
 
 em um cenário realista ligado ao **Futuro do Trabalho** e ao contexto de **ReSkill / Global Solution**.
-
-O código:
-
-- Atende às exigências da disciplina de Dynamic Programming  
-- Gera **relatórios claros** e interpretáveis  
-- Fornece uma **ferramenta prática** para apoiar a tomada de decisão baseada em dados na escolha de trilhas de capacitação.
-
----
-
-## GitHub / Organização do Projeto
-
-Sugestão de estrutura do repositório:
-
-```bash
-.
-├── Dynamic_Programming_(GS)_future_of_work.ipynb  # Notebook principal
-├── README.md                                      # Este arquivo
-└── data/                                          # (Opcional) Dados adicionais
